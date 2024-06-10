@@ -1,8 +1,6 @@
 /**
  * The starting point of the application.
  *
- * @author Johan Leitet <johan.leitet@lnu.se>
- * @author Mats Loock <mats.loock@lnu.se>
  * @author Dongzhu Tan <dt222ha@student.lnu.se>
  * @version 1.1.0
  */
